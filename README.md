@@ -3,6 +3,7 @@ SoundTriggeredKeyPress listens for a specific sound level and triggers keyboard 
 
 Required python library: <br />
 pip install pyaudio numpy pyautogui
+or download from release that well packed into single executeable.
 
 ## Options: <br />
   --time [seconds]     : Duration to sleep after each keydown event. Default is 2 seconds. <br />
