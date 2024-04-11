@@ -1,6 +1,7 @@
-# DroidstarVox
+# SoundTriggeredKeyPress 
 SoundTriggeredKeyPress listens for a specific sound level and triggers keyboard events based on the detected sound intensity. <br />
-It starts by waiting for a mouse click to activate sound detection. Once activated, if the sound level exceeds a specified threshold, it simulates pressing the spacebar.
+It starts by waiting for a mouse click to activate sound detection. Once activated, if the sound level exceeds a specified threshold, it simulates pressing the spacebar.<br />
+Well designed for use with Droidstar,DUDE-Star to adding voice-activated switch capability.<br />
 <br />
 Required python library: <br />
 pip install pyaudio numpy pyautogui <br />
